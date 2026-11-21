@@ -4,9 +4,9 @@ Aplicación de escritorio en Python que permite a un docente administrar estudia
 
 ## Descripción del problema y justificación
 
-**Problema.** Un docente que lleva el control de sus grupos en cuadernos u hojas sueltas enfrenta errores al calcular promedios, pérdida de información, dificultad para saber cuántas evaluaciones faltan por calificar y poca visibilidad sobre la asistencia de cada estudiante.
+Problema: Un docente que lleva el control de sus grupos en cuadernos u hojas sueltas enfrenta errores al calcular promedios, pérdida de información, dificultad para saber cuántas evaluaciones faltan por calificar y poca visibilidad sobre la asistencia de cada estudiante.
 
-**Justificación.** Un sistema que centralice los datos, calcule automáticamente los promedios ponderados y registre la asistencia por fecha reduce los errores de cálculo, ahorra tiempo y permite consultar el rendimiento de cada estudiante en cualquier momento. Además, los datos quedan guardados de forma permanente y se pueden exportar para compartirlos o archivarlos.
+Justificación: Un sistema que centralice los datos, calcule automáticamente los promedios ponderados y registre la asistencia por fecha reduce los errores de cálculo, ahorra tiempo y permite consultar el rendimiento de cada estudiante en cualquier momento. Además, los datos quedan guardados de forma permanente y se pueden exportar para compartirlos o archivarlos.
 
 ## Funcionalidades
 
@@ -36,15 +36,15 @@ No utiliza librerías externas.
 
 ## Requisitos previos
 
-- Python 3.10 o superior (`python --version` para comprobarlo).
+- Python 3.10 o superior.
 - Tkinter. Viene incluido en el instalador oficial de Python para Windows y macOS. En Linux: `sudo apt install python3-tk`.
 - No hay dependencias que instalar (`requirements.txt` solo documenta esto).
 
 ## Instalación
 
-1. Clona el repositorio o descárgalo como ZIP y descomprímelo:
+1. Clona el repositorio o descárgalo como ZIP y descomprimelo:
    ```bash
-   git clone https://github.com/TU_USUARIO/SICAE.git
+   git clone https://github.com/avilanarphys-lab/SICAE.git
    ```
 2. Entra a la carpeta del proyecto:
    ```bash
